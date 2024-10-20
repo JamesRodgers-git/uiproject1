@@ -29,7 +29,7 @@ async function loadMain(main) {
         AddCardImage.classList.add("col-4"); // Add Bootstrap class to the column
         AddCardImage.innerHTML = `
         <div class="card shadow-sm border border-primary" style = "height: 800px; margin-top: 50px; margin-bottom: 50px">
-        <img src=${url} class="card-img-top" alt="..."></img>
+        <img src=${url} class="card-img-top img-fluid mx-auto d-block" style="max-height: 80%; object-fit: contain;" alt="..."></img>
         <div class="card-body text-center">
         <p class="card-text"> 
         Name: ${name}<br>
