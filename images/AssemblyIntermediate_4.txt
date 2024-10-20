@@ -1,0 +1,1 @@
+Assemblies like these are important to practice in order to be familiar with downloading parts and working with multiple solid bodies in an assembly file. This activity will familiarize students with the constraints used in assemblies as well as how to properly set up their files for success.

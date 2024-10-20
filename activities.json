@@ -1,0 +1,52 @@
+{
+    "activities" : [
+        {
+            "title" : "Assembly Beginner #2",
+            "description" : "./images/AssemblyBeginner_2.txt",
+            "image" : "./images/AssemblyBeginner_2.png",
+            "drawing" : "./images/AssemblyBeginner_2.pdf"
+        },
+        {
+            "title" : "Assembly Beginner #3",
+            "description" : "./images/AssemblyBeginner_3.txt",
+            "image" : "./images/AssemblyBeginner_3.png",
+            "drawing" : "./images/AssemblyBeginner_3.pdf"
+        },
+        {
+            "title" : "Assembly Expert #4",
+            "description" : "./images/AssemblyExpert_4.txt",
+            "image" : "./images/AssemblyExpert_4.png",
+            "drawing" : "./images/AssemblyExpert_4.pdf"
+        },
+        {
+            "title" : "Assembly Intermediate #4",
+            "description" : "./images/AssemblyIntermediate_4.txt",
+            "image" : "./images/AssemblyIntermediate_4.png",
+            "drawing" : "./images/AssemblyIntermediate_4.pdf"
+        },
+        {
+            "title" : "Extrude Beginner #6",
+            "description" : "./images/ExtrudeBeginner_6.txt",
+            "image" : "./images/ExtrudeBeginner_6.png",
+            "drawing" : "./images/ExtrudeBeginner_6.pdf"
+        },
+        {
+            "title" : "Extrude Expert #1",
+            "description" : "./images/ExtrudeExpert_1.txt",
+            "image" : "./images/ExtrudeExpert_1.png",
+            "drawing" : "./images/ExtrudeExpert_1.pdf"
+        },
+        {
+            "title" : "Extrude Expert #3",
+            "description" : "./images/ExtrudeExpert_3.txt",
+            "image" : "./images/ExtrudeExpert_3.png",
+            "drawing" : "./images/ExtrudeExpert_3.pdf"
+        },
+        {
+            "title" : "Extrude Intermediate #4",
+            "description" : "./images/ExtrudeIntermediate_4.txt",
+            "image" : "./images/ExtrudeIntermediate_4.png",
+            "drawing" : ".images/ExtrudeIntermediate_4.jpg"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Solid body modeling practice part number 6 allows students to work with sketches and extruding them to create or remove material from the part. They use tools like filleting and have to work with the part from multiple angles.

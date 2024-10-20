@@ -1,0 +1,68 @@
+{
+    "members":[
+        {
+            "name" : "Jacob Smothers",
+            "years" : 4,
+            "text" : " Jacob Smothers is a mechanical engineering student with a minor in computer science. He has experience in Python and Java.",
+            "email" : "jacsmo@iastate.edu",
+            "image" : "./images/jacobsmothers.jpg"
+        },
+        {
+            "name" : "James Rodgers",
+            "years" : 0,
+            "text" : "James Rodgers is a software engineering student. He has experience using Python, node, express, JavaScript and several other libraries useful for web development.",
+            "email" : "jms.rdgrs@gmail.com",
+            "image" : "./images/profile.jpg"
+        },
+        {
+            "name" : "Jack Newton",
+            "years" : 2,
+            "text" : "Treasurer",
+            "email" : "jpnewton@iastate.edu",
+            "image" : "./images/jacknewton.jpg"
+        },
+        {
+            "name" : "Henry Locke",
+            "years" : 2,
+            "text" : "Vice President",
+            "email" : "hrloch@iastate.edu",
+            "image" : "./images/henry.jpg"
+        },
+        {
+            "name" : "Eric Laures",
+            "years" : 2,
+            "text" : "Sophomore Class Representative",
+            "email" : "ejlau04@iastate.edu",
+            "image" : "./images/eric.jpg"
+        },
+        {
+            "name" : "Zachary Fitzgerald",
+            "years" : 2,
+            "text" : "Activities Chair",
+            "email" : "zfitz1@iastate.edu",
+            "image" : "./images/zach.jpg"
+        },
+        {
+            "name" : "Maximus Kroll",
+            "years" : 1,
+            "text" : "Outreach Chair",
+            "email" : "mnd121@iastate.edu",
+            "image" : "./images/max.jpg"
+        },
+        {
+            "name" : "Stephen Rodgers",
+            "years" : 0,
+            "text" : "Freshman Class Representative",
+            "email" : "strogers@iastate.edu",
+            "image" : "./images/stephen.jpg"
+        }
+        ,
+        {
+            "name" : "Sebastine Feve",
+            "years" : 4,
+            "text" : "Faculty Advisor",
+            "email" : "sfeve@iastate.edu",
+            "image" : "./images/feve.png"
+        }
+    ]
+}

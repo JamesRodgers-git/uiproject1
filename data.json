@@ -1,0 +1,19 @@
+{
+    "description":[
+        {
+            "title" : "Our Goal",
+            "textbody" : "SolidWorks and CAD club was created to grant students the opportunity to enhance their CAD skills, network and collaborate with students from various fields, and gain advice from students and industry speakers. The club welcomes members of all skill levels and with experience in CAD and programming software. Overall, the majority of attention will be focused on SolidWorks in order to improve club members' abilities in the industry-leading software and provide the opportunity to earn a CSWA (Certified Solidworks Associate) or CSWP (Certified Solidworks Professional) Certification!",
+            "image" : "./images/solidlogo.PNG"
+        },
+        {
+            "title" : "Club Structure",
+            "textbody" : "Depending on your experience level and your goal in the club you will be placed in a section on canvas. This will filter the activities that you can see so you aren't overwhelmed by more advanced topics and can easily find the activities you want. There are three levels of activies, Beginner, Intermediate, and Expert. To clear a topic, you must complete either both the beginner and intermeidate activities, or just the expert activities. Complete all the activites for the certification you are pursuing and you will get a FREE exam credit to take the certification exam. Some students choose a faster pace and can get access to all the activites at once to work through. For those with less experience we gradually release activites and go through them with you at meetings.",
+            "image" : "./images/clubmeeting.jpg"
+        },
+        {
+            "title" : "Schedule",
+            "textbody" : "Meetings are held every week on Wednesday at 5:30 pm in Hoover 2255. New activites will be released every other week. Reminder announcements are sent out Wednesday morning and there is an email list if you prefer to be notified that way. To be added to the email list, contact the executive board.",
+            "image" : "./images/Fall2024SemesterSchedule.png"
+        }
+    ]
+}
